@@ -11,7 +11,7 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home={true}>
       <Head>
-        <title>Create Next App</title>
+        <title>Sebastian Blog</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
